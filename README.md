@@ -16,5 +16,6 @@ Welcome to LuxeLodgings – your go-to platform for exploring and booking luxury
 🗄️ Database: MongoDB
 📡 API Integration: Google Maps API
 
-![LuxeLodgings Homepage](images/LuxeLodgings.png)
+![LuxeLodgings Homepage](https://github.com/username/repo-name/blob/main/images/LuxeLodgings.png?raw=true)
+
 
