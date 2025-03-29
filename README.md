@@ -17,3 +17,4 @@ Welcome to LuxeLodgings – your go-to platform for exploring and booking luxury
 📡 API Integration: Google Maps API
 
 ![LuxeLodgings Homepage](images/LuxeLodgings.png)
+
